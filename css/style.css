@@ -41,3 +41,36 @@ header{
     padding: 5px;
     color: #ffffff81;
 }
+/* main styles */
+main{
+    margin: 0 180px;
+}
+.header-container{
+    margin: 15px 0;
+}
+.donation-details{
+    display: flex;
+    gap: 20px;
+    padding: 40px;
+    margin: 30px 0;
+}
+.donation-details-container{
+    width: 50%;
+    padding: 30px;
+    margin: 0 auto;
+}
+.donation-title{
+    font-size: 50px;
+    font-weight: bold;
+    padding: 20px 0;
+}
+.donation-subtitle{
+    font-size: 20px;
+    padding: 10px 0;
+}
+.donation-details img{
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+    border-radius: 5px;
+}
